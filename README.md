@@ -1,2 +1,2 @@
 # Hello-Git
-**Welcome to __GitHub__ Tefa**
+**Welcome to _GitHub_ Tefa**
