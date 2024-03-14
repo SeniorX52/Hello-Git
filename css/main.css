@@ -1,2 +1,6 @@
 void main(){
 }
+
+void start(void){
+	u8 fingers[5]={1,2,3,4,5};
+}
